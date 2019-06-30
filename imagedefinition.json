@@ -1,0 +1,6 @@
+[
+    {
+      "name": "docker-ecs",
+      "imageUri": "793085127332.dkr.ecr.us-east-1.amazonaws.com/docker-ecs:latest"
+    }
+  ]
